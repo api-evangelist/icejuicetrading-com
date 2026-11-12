@@ -1,4 +1,4 @@
-# icejuicetrading-com
+# Ice Juice Trading
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,92 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-icejuicetrading-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://icejuicetrading.com/
+Ice Juice Trading provides a no‑code platform that automates Alpaca brokerage accounts. Users can select from pre‑built trading strategies or design their own, set risk limits, and run paper‑trading before live deployment. The service offers tiered pricing, including a free tier, and emphasizes that it does not act as an investment adviser. It integrates with user‑provided broker API keys and offers AI‑assisted strategy building.
+
+**Areas:** Company · Trading · No-Code · Automation · Alpaca
+
+## Ice Juice Trading on APIs.io
+
+Everything profiled for Ice Juice Trading is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/icejuicetrading-com/](https://apis.io/providers/icejuicetrading-com/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Ice Juice Trading Domain Security](https://apis.io/security/icejuicetrading-com/icejuicetrading-com-domain-security/)
+- [Ice Juice Trading Vulnerability Disclosure](https://apis.io/security/icejuicetrading-com/icejuicetrading-com-vulnerability-disclosure/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Ice Juice Trading Plans Pricing](https://apis.io/plans/icejuicetrading-com/icejuicetrading-com-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://icejuicetrading.com/)
+- [Pricing](https://icejuicetrading.com/pricing.html)
+- [Terms of service](https://icejuicetrading.com/terms.html)
+- [Privacy policy](https://icejuicetrading.com/privacy.html)
+
+## API Evangelist rating
+
+**Kin Score 18.7** — emerging · rubric 0.27.0 · scored 2026-11-12
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 60.0 |
+
+**Agent readiness 6.0** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 24.1** — Securities & Market Data
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/icejuicetrading-com/](https://apis.io/providers/icejuicetrading-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Ice Juice Trading: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/icejuicetrading-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
